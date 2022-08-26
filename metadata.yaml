@@ -1,0 +1,28 @@
+_repo: List-of-post-offices-in-Canada-with-the-names-of-the-postmasters-on-the-1st-September-1856-Wi__68757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Department, Canada Post Office
+    gutenberg_agent_id: '54933'
+    url: http://www.gutenberg.org/2009/agents/54933
+description: ''
+gutenberg_issued: '2022-08-15'
+identifiers:
+  gutenberg: '68757'
+language: en
+pgterms:marc905: 20060325152427postmaster
+pgterms:marc906: '1856'
+pgterms:marc907: CA
+production_note: WebRover, Adrian Mastronardi, The Philatelic Digital Library Project
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This file
+  was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: Canada :Lovell and Gibson,1856.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'List of post offices in Canada, with the names of the postmasters, on the
+  1st September 1856: With a supplementary list to 1st March, 1857, inclusive'
+url: http://www.gutenberg.org/ebooks/68757
